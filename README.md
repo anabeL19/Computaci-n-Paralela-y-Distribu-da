@@ -1,2 +1,2 @@
-Computación Paralela y Distribuída
+cp - Computación Paralela y Distribuída
 
